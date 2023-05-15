@@ -1,0 +1,11 @@
+User-agent:*
+Disallow: /super
+Disallow:*branch=*
+Disallow:*#cases?
+Disallow:*#journey?
+Disallow:*#reviews*
+Disallow:*?category=*
+Disallow:*?branch=*
+Disallow:*?keyword=*
+
+

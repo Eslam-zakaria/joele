@@ -1,0 +1,1 @@
+a:9:{s:5:"total";s:5:"Total";s:3:"sar";s:3:"SAR";s:6:"remove";s:6:"Remove";s:4:"time";s:4:"Time";s:7:"morning";s:7:"Morning";s:7:"evening";s:7:"Evening";s:4:"name";s:7:"mohamed";s:6:"name-1";s:5:"ahmed";s:7:"payment";a:3:{s:6:"online";s:14:"Payment online";s:9:"in_clinic";s:17:"Payment in clinic";s:7:"options";s:15:"Payment Options";}}
